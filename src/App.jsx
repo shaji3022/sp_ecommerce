@@ -7,7 +7,7 @@ const App = () => {
   return (
  
       <div>
-        <h1 className='app-heading'>Shaji's E-Commerce Application</h1>
+        <h1 className='app-heading'>Shaji's first get hub check in this ecom app</h1>
         <ProductList />
         <ShoppingCart />
       </div>
